@@ -1,4 +1,4 @@
-# CoinBank
+# Sequence ADT using Linked Lists
 This project re-implements the Sequence data structure using a custom LinkedList and ListNode in Java.
 It focuses on information hiding, modularity, and clean object-oriented design.
 
