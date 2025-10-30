@@ -1,2 +1,13 @@
 # CoinBank
-A Java project that rebuilds the Sequence data structure using a custom LinkedList and ListNode instead of arrays. The project demonstrates information hiding, modularity, and object-oriented design by separating behavior from implementation. Includes JUnit tests for all core list operations such as insertion, deletion, and traversal.
+This project re-implements the Sequence data structure using a custom LinkedList and ListNode in Java.
+It focuses on information hiding, modularity, and clean object-oriented design.
+
+Features
+
+- Custom implementation of a singly linked list (no Java built-ins)
+
+- Full Sequence rewrite to use the new linked list structure
+
+- Comprehensive JUnit tests for all core operations (insert, delete, traverse)
+
+- Follows strong coding style, documentation, and abstraction principles
